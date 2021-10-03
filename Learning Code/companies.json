@@ -1,0 +1,14 @@
+[
+    {
+        "name": "JSK Tech",
+        "numberOfEmployees": 2300,
+        "ceo": "Jay",
+        "ratings": 4.4
+    },
+    {
+        "name": "Small Startup",
+        "numberOfEmployees": 2000,
+        "ceo": null,
+        "ratings": 3.5
+    }
+]
