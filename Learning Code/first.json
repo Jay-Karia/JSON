@@ -1,0 +1,12 @@
+{
+    "name": "Jay",
+    "score": 96,
+    "isAdmin": true,
+    "license": null,
+    "shopItems": ["food", "drinks", "cloths", "beer", "perfume"],
+    "myObj": {
+        "name": "nested",
+        "percentage": 93,
+        "shopItem2": ["perfume", "oil", {"a": true}]
+    }
+}
